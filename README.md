@@ -118,7 +118,4 @@ The system allows **real-time monitoring and control** of the car via a web brow
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
 
