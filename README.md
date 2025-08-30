@@ -1,6 +1,6 @@
 # ESP32 IoT Car with Sensors & Servo Control
 
-![Project Banner](images/banner.png) <!-- Add your banner image here -->
+![Project Banner](IMG_20250830_120836944_HDR_AE.jpg) <!-- Add your banner image here -->
 
 ## Overview
 This project is an **IoT-enabled robotic car** using ESP32. It integrates:
